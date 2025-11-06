@@ -1,6 +1,6 @@
 # WANFAM Smart Livestock Management System
 
-![WANFAM Logo](assets/img/favicon.png)
+
 
 ## Project Overview
 
@@ -24,7 +24,6 @@ This project is a **portfolio details page** that showcases the WANFAM system's 
 - **Swiper.js** – Portfolio image slider
 - **AOS (Animate On Scroll)** – Scroll animations
 - **JavaScript** – Interactive components
-
-
+- **PHP (optional)** – Newsletter subscription form backend
 
 
